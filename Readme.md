@@ -1,80 +1,50 @@
-<p align="center"><a href="https://t.me/eSport_BOTs"><img src="https://github.com/HEXOROP/eSportMusicX/raw/main/etc/Hexor.png"></a></p>
-<p align="center">
-    <br><b>eSport MusicX is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
-</p>
-<p align="center">
-    <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-square&logo=python&logoColor=blue&color=red" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/graphs/commit-activity" alt="Maintenance"> <img src="https://img.shields.io/badge/Maintained%3F-yes-red.svg?style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX"> <img src="https://img.shields.io/github/repo-size/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/commits/main"> <img src="https://img.shields.io/github/last-commit/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/issues"> <img src="https://img.shields.io/github/issues/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>
-    <a href="https://github.com/HEXOROP/eSportMusicX/network/members"> <img src="https://img.shields.io/github/forks/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-    <a href="https://github.com/HEXOROP/eSportMusicX/network/members"> <img src="https://img.shields.io/github/stars/levina-lab/VeezMusic?color=red&logo=github&logoColor=blue&style=flat-square" /></a>  
-</p>
+<p align="center"><b>🎵 KENNEDY X MUSIC 🎵</b></p>
 
-<h3>Requirements 📝</h3>
+<p align="center"><b> KennedyXMusic is a Music powerfull bot for playing music on telegram voice chat groups. </b></p>
+
+<p align="center"><a href="https://t.me/emikosupport"><img src="https://telegra.ph/file/d8f2eadbe79a4c949bb93.jpg" width="340"></a></p>
+
+<h3>Requirements</h3>
 
 - FFmpeg
 - NodeJS [nodesource.com](https://nodesource.com/)
-- Python 3.7 or higher
+- Python 3.8+ or Higher
 - [PyTgCalls](https://github.com/pytgcalls/pytgcalls)
+- [MongoDB](https://cloud.mongodb.com/)
+- Seccond account for the assistant
 
-### 🧪 Get `SESSION_NAME` from below:
+### Get SESSION_NAME from here:
 
-[![GenerateString](https://img.shields.io/badge/repl.it-generateString-yellowgreen)](https://replit.com/@HEXOROP/eSportMusic) ``Pyrogram``
+[![GenerateString](https://img.shields.io/badge/repl.it-generateString-blue)](https://replit.com/@KennedyProject/String-Session#main.py)
 
-### 🎖 History
+### 🔎 Support Inline Search
 
-[![Mentioned in Awesome Python](https://awesome.re/mentioned-badge.svg)](https://github.com/HEXOROP/eSportMusicX)
+### Heroku Deployment 💜
+The easy way to host this bot, deploy to Heroku
 
-## Features 🔮
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/KennedyProject/KennedyXMusic)
 
-- Thumbnail Support
-- Yt-dL Fix
-- Updated Plug-in
-- Super Fast Bot
-- No Lag Hang
-- Fast Download Song From Server
-- Program Updated
-- Smooth Player
-
-## Commands 🛠
-
-- `/play <song name>` - play song you requested
-- `/song <song name>` - download songs you want quickly
-
-#### Admins Only 👷‍♂️
-- `/pause` - pause song play
-- `/resume` - resume song play
-- `/skip` - play next song
-- `/end` - stop music play
-
-## Heroku Deployment 💜
-The easy way to host this bot, deploy to Heroku, Change the app country to Europe (it will help to make the bot stable).
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/HEXOROP/eSportMusicX)
-
-## ᴅᴇᴘʟᴏʏ ᴏɴ ᴠᴘꜱ ꜱᴇʀᴠᴇʀ 📡
-
-```sh
-sudo apt update && apt upgrade -y
-sudo apt install git curl python3-pip ffmpeg -y
-pip3 install -U pip
-curl -sL https://deb.nodesource.com/setup_16.x | bash -
-sudo apt-get install -y nodejs
-npm i -g npm
-git clone https://github.com/HEXOROP/eSportMusicX # Clone your repo.
-cd VeezMusic
-pip3 install -U -r requirements.txt
-cp example.env .env #Use vim to edit ENVs
-vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file.)
-python3 main.py # Run the bot
+### Deploy On VPS 💙
+```
+- sudo apt update && apt upgrade -y
+- sudo apt install git curl python3-pip ffmpeg -y`
+- pip3 install -U pip
+- curl -sL https://deb.nodesource.com/setup_16.x | bash -
+- sudo apt-get install -y nodejs
+- npm i -g npm
+- git clone https://github.com/KennedyProject/KennedyXMusic # Clone your repo.
+- cd KennedyXMusic
+- pip3 install -U -r requirements.txt
+- cp example.env .env #Use vim to edit ENV
+- vim .env #Fill up your ENVs ( Steps press i to enter in insert mode then edit the file. Press Esc to exit the editing mode then type :wq! and press Enter key to save the file.)
+- python3 main.py # Run the bot
 ```
 
-### Special Credits 💖
-- [Hexor'xD](https://github.com/HEXOROP): Dev
-- [eSport Music Bot](https://t.me/eSport_BOTs) Our Music Bot
+### Credits 🕊️
+- [Kennedy](https://github.com/KennedyProject) Dev
+- [Feri](https://github.com/FeriEXP) Dev
 - [RojSerBest](https://github.com/rojserbest) CallsMusic Developer
+- [Veez Music](https://github.com/levina-lab/veezmusic) Veez Music
 
-### Support & Updates 🎑
-<a href="https://t.me/EsportClan"><img src="https://img.shields.io/badge/Join-Group%20Support-blue.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/eSport_BOTs"><img src="https://img.shields.io/badge/Join-Updates%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
+### Support & Updates 🛵
+<a href="https://t.me/emikosupport"><img src="https://img.shields.io/badge/Join-Group%20Support-red.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/KennedyProject"><img src="https://img.shields.io/badge/Join-Updates%20Channel-white.svg?style=for-the-badge&logo=Telegram"></a>
